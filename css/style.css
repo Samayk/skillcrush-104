@@ -1,4 +1,30 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Sarah's Styles **/
+
+.sarahk-advice {
+    background color: papayawhip;
+    font-family: sans-serif;
+    width: auto;
+}
+
+.sarahk-advice a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.sarahk-advice h1 {
+    color: black;
+    font-weight: bold;
+    text-align: center
+}
+
+.sarahk-advice p {
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
 
 /** Ozge's Styles **/
 .ozge-advice {
